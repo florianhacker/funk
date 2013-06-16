@@ -1,4 +1,4 @@
-funk
+FUNK.JS
 ====
 
 ```
