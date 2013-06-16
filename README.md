@@ -1,6 +1,7 @@
 funk
 ====
 
+```
 FUNK.JS - Easy to use Javascript Animation Toolbox
 
 // initialise FUNK
@@ -29,3 +30,4 @@ FUNK.ShapeFactory.createShape("circle",
 
 // get funky
 FUNK.Animator.run()
+```
